@@ -1,2 +1,2 @@
-# qiskit_playground
-Playing around with qiskit for some projects.
+# Sudoku solver implemented with Grover algorithm via qiskit
+
